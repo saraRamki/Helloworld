@@ -9,7 +9,7 @@ public class sample {
 	public static void main(String[] args) {
 		for(int i=1;i<=10;i++) {
 		System.out.println("Hello World");
-		System.out.println("Ramkishan \n Saraaaa this is my first JAVA_Program");
+		System.out.println("Ramkishan \n Welcome this is my first JAVA_Program");
 		// TODO Auto-generated method stub
 	    }
 	}
